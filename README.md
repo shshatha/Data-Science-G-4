@@ -8,7 +8,7 @@ This project presents an analytical study of electricity consumption patterns us
 
 The main objectives of this assignment are to:
 
-Analyze electricity consumption data باستخدام Python
+Analyze electricity consumption data using Python
 Identify patterns and trends in electricity demand
 Perform statistical and exploratory data analysis (EDA)
 Engineer meaningful features to better understand load behavior
