@@ -13,6 +13,7 @@ Analyze electricity consumption data using Python
 Identify patterns and trends in electricity demand
 Perform statistical and exploratory data analysis (EDA)
 Engineer meaningful features to better understand load behavior
+
 📊 Dataset
 
 The dataset is sourced from:
@@ -50,7 +51,9 @@ Normalized delta (scaled change in load)
 5. Data Cleaning
 Removing unnecessary columns
 Formatting datetime features
+
 🛠️ Tools and Technologies
+
 Python
 Jupyter Notebook
 Libraries:
