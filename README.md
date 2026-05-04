@@ -1,5 +1,6 @@
 ⚡ Electricity Consumption Trend Analysis and Prediction Using Smart Meter Data 
 Data Analysis of Electricity Consumption in Saudi Arabia
+
 📖 Abstract
 
 This project presents an analytical study of electricity consumption patterns using a real-world dataset from Saudi Arabia. The work is developed as part of the ARTI506 course and focuses on applying data analysis techniques to understand electricity demand behavior over time. The notebook integrates data preprocessing, statistical analysis, and feature engineering to extract meaningful insights from the dataset.
